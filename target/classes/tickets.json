@@ -1,0 +1,100 @@
+[
+    {
+      "origin_name": "Владивосток",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "16:20",
+      "arrival_date": "12.05.18",
+      "arrival_time": "22:10"
+    },
+    {
+      "origin_name": "Владивосток",
+      "destination_name": "Тель-Авив",
+      "departure_date": "12.05.18",
+      "departure_time": "17:20",
+      "arrival_date": "12.05.18",
+      "arrival_time": "23:50"
+    },
+  {
+
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "12:10",
+    "arrival_date": "12.05.18",
+    "arrival_time": "18:10"
+
+  }
+  ,
+  {
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "17:00",
+    "arrival_date": "12.05.18",
+    "arrival_time": "23:30"
+  }
+  ,
+  {
+
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "12:10",
+    "arrival_date": "12.05.18",
+    "arrival_time": "20:15"
+  }
+  ,
+  {
+
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "9:40",
+    "arrival_date": "12.05.18",
+    "arrival_time": "19:25"
+  },
+  {
+
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "17:10",
+    "arrival_date": "12.05.18",
+    "arrival_time": "23:45"
+
+  }
+  ,
+  {
+
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "6:10",
+    "arrival_date": "12.05.18",
+    "arrival_time": "15:25"
+
+  }
+  ,
+  {
+
+    "origin_name": "Владивосток",
+
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "16:50",
+    "arrival_date": "12.05.18",
+    "arrival_time": "23:35"
+
+  },
+  {
+
+    "origin_name": "Владивосток",
+    "destination_name": "Тель-Авив",
+    "departure_date": "12.05.18",
+    "departure_time": "6:10",
+    "arrival_date": "12.05.18",
+    "arrival_time": "16:15"
+
+  }
+]
